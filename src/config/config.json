@@ -1,0 +1,4 @@
+{
+    "dashboard" : "http://payment-app-instamojo-fe.vercel.app",
+    "server" : "https://payment-app-instamojo.vercel.app"
+}
